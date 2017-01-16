@@ -1,0 +1,1 @@
+JavaScript project to learn authentication using Passport.
